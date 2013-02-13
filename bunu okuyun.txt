@@ -1,0 +1,8 @@
+Database inizde codeigniter adlý bir database oluþturun. Ýçine sql dosyasýný import edin.
+Eðer baþka bir yere import ederseniz. Codeigniter/application/config/ altýndaki database.php yi
+düzenleyin. Default olarak database kullanýcý adý:root þifre:yok eðer sizinkiler farklý ise yine
+Codeigniter/application/config/ altýndaki database.php yi açarak düzenleyin.
+Daha sonra projenin direk çalýþmasý gerekiyor.
+
+Hazýrlayan: GÜrcan Kavakçý
+www.kodmerkezi.net - facebook.com/kodmerkezi.net
